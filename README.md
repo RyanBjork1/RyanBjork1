@@ -1,5 +1,8 @@
 # Hello World :v:
 
+Check out [My Blog!](https://github.com/RyanBjork1/MyLandingPage)
+
+
 
 
 
