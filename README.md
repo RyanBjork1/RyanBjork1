@@ -1,6 +1,6 @@
 # Hello World :v:
 
-Check out [My Blog!](https://github.com/RyanBjork1/MyLandingPage)
+Check out [My Blog!](https://https://github.com/RyanBjork1/RyanBjork1.github.io)
 
 
 
