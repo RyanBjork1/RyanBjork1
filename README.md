@@ -4,6 +4,9 @@ Check out [My Blog!](https://github.com/RyanBjork1/RyanBjork1.github.io)
 
 ![](images/cropped-qtq80-0ORx0b.jpeg)
 
+<img src="https://res.cloudinary.com/dy0wgutgr/image/upload/v1595962304/lg2_za5bzf.png" width="100%">
+<img src="https://github.com/RyanBjork1/RyanBjork1/blob/master/images/cropped-qtq80-0ORx0b.jpeg" width="100%">
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
