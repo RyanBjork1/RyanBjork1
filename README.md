@@ -1,10 +1,8 @@
 # Hello World :v:
 
-![](cropped-qtq80-0ORx0b.jpeg)(https://github.com/RyanBjork1)
-![](images/cropped-qtq80-0ORx0b.jpeg)
-
-
 Check out [My Blog!](https://github.com/RyanBjork1/RyanBjork1.github.io)
+
+![](images/cropped-qtq80-0ORx0b.jpeg)
 
 ### Markdown
 
