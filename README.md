@@ -1,6 +1,6 @@
 <img src="https://github.com/RyanBjork1/RyanBjork1/blob/master/images/cropped-qtq80-0ORx0b.jpeg" width="100%">
 
-Check out [My Blog!](https://github.com/RyanBjork1/RyanBjork1.github.io)
+###Check out [MyBlog!](https://github.com/RyanBjork1/RyanBjork1.github.io)
 
 
 
