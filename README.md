@@ -1,6 +1,6 @@
 # Hello World :v:
 
-![alt text](cropped-qtq80-0ORx0b.jpeg/image.png?raw=true)
+![](cropped-qtq80-0ORx0b.jpeg)
 
 
 
