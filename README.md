@@ -1,6 +1,6 @@
 # Hello World :v:
 
-![alt text](https://github.com/C:\Users\Ryan\Github.com\cropped-qtq80-0ORx0b.jpeg/image.png?raw=true)
+![alt text](cropped-qtq80-0ORx0b.jpeg/image.png?raw=true)
 
 
 
